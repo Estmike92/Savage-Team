@@ -2,4 +2,5 @@
 New
 Team
 
-Hardworking-Heart
+
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
